@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Presentations**
+
+MOR UC Lead From Where You Are Workshops (Mar 2024 - Sep 2024)
+
+[UC AI Transformations](https://uctechnews.ucop.edu/event-creating-a-smarter-university-ai-transformations-in-administration-research-and-healthcare-september-3-4-2024-save-the-date/) (Sep 2024)
+- Facilitated AI Workshops: AI Roadmaps – Discovery, Deployment and Scale and  From Strategy to Safeguards – AI Governance Essentials
+
+UC Tech 2024 (Oct 2024)
+- [OpenSearch For the Productivity Win; Fostering Adoption Across Teams](https://merritt.uc3dev.cdlib.org/present/opensearch/README.html#/) (co-present with [Terry Brady](https://github.com/terrywbrady))
